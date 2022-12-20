@@ -9,8 +9,9 @@
 # Langkah 2
 # Membuat ini tampilan form login_session
 ![Gambar 2](SS/ss2.png)
-#
-# maaf disini saya tidak bisa login, karena error terus. saya masih kurang paham error nya ada salah dimana nya.
+# Langkah 3
+# Ini Tampilan nya ketika sudah login
+![Gambar 3](SS/ss3.png)
 # 
 # Cukup sekian penjelasan dari saya
 # TERIMA KASIH
